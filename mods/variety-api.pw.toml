@@ -1,0 +1,13 @@
+name = "Variety API"
+filename = "VarietyAPI-Fabric-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vnV0TwBF/versions/IIaLom49/VarietyAPI-Fabric-1.0.jar"
+hash-format = "sha1"
+hash = "8f431f28aadeb5c836cbad98622e5aa9d45aed5f"
+
+[update]
+[update.modrinth]
+mod-id = "vnV0TwBF"
+version = "IIaLom49"
