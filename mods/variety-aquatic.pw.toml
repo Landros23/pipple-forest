@@ -1,0 +1,13 @@
+name = "Variety Aquatic"
+filename = "Variety_Aquatic-fabric-1.0.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RgnNZNlx/versions/75gVVNHU/Variety_Aquatic-fabric-1.0.4.7.jar"
+hash-format = "sha1"
+hash = "1eae13095174492070a87fab6171285eb058b9d0"
+
+[update]
+[update.modrinth]
+mod-id = "RgnNZNlx"
+version = "75gVVNHU"
