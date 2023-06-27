@@ -1,0 +1,16 @@
+name = "Pipple's Forest | 1.20.1 Edition"
+author = "Landros"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "409b2c469c001db16fbcc4a59284c5e29c8a55c9499fa5f0b37114e3102e4011"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20"]
